@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 #
-# Written by John Jones (johnnwvs@gmmail.com) in 2012 and updated every so often.
+# Written by John Jones (johnnwvs@gmail.com) in 2012 and updated every so often.
 # To pull driving distance data between two locations from Google.
 # I may have pulled some code from elsewhere, but I cannot remember if I completely re-invented the wheel or not.
 
